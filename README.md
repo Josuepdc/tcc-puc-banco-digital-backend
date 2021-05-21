@@ -24,4 +24,8 @@ Implementação de projeto para entrega de TCC da Pós-Graduação.
 
 - Execute o script "./src/database/scripts/seeds.sql" para popular o banco com dados de teste.
 
+- Instale o NodeJS e o Yarn.
+
+- Instale as dependencias do projeto no terminal com o comando: `yarn`
+
 - Execute o projeto no terminal com o comando: `yarn dev:server`
